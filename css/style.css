@@ -15,12 +15,10 @@ main {
   display: block;
 }
 
-#title {
-
-}
-
 figure {
   display: block;
+  background: white;
+  padding: 10px;
 }
 
 #image {
@@ -28,4 +26,44 @@ figure {
   max-width: 100%;
   height: auto;
   margin: 0 auto;
+  border-radius: 5px;
+}
+
+main h1 {
+
+}
+main p {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  }
+
+figcaption {
+  padding: 10px;
+}
+
+main h2 {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+main ul {
+    display: block;
+    margin: auto;
+    text-align: left;
+    width: 600px;
+}
+
+main li {
+  margin-bottom: 1em;
+}
+
+#phrase, #phrase_author {
+  margin: 0;
+}
+
+#tribute-info-text{
+  font-weight: bold;
+  font-size: 24px;
 }
