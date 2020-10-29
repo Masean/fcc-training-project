@@ -1,1 +1,1 @@
-Учебные проекты с ресурса freeCodeCamp.
+ Build a Tribute Page.
